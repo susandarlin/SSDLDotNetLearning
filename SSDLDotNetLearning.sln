@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34804.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSDLDotNetLearning.ConsoleApp", "SSDLDotNetLearning.ConsoleApp\SSDLDotNetLearning.ConsoleApp.csproj", "{14CA6FBD-CE1D-444C-946B-F03130CCB394}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SSDLDotNetLearning.ConsoleApp", "SSDLDotNetLearning.ConsoleApp\SSDLDotNetLearning.ConsoleApp.csproj", "{14CA6FBD-CE1D-444C-946B-F03130CCB394}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSDLDotNetLearning.ConsoleApp2", "SSDLDotNetLearning.ConsoleApp2\SSDLDotNetLearning.ConsoleApp2.csproj", "{CE49103F-4713-4369-B942-3E1FBD2FC2BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{14CA6FBD-CE1D-444C-946B-F03130CCB394}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14CA6FBD-CE1D-444C-946B-F03130CCB394}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14CA6FBD-CE1D-444C-946B-F03130CCB394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE49103F-4713-4369-B942-3E1FBD2FC2BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE49103F-4713-4369-B942-3E1FBD2FC2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE49103F-4713-4369-B942-3E1FBD2FC2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE49103F-4713-4369-B942-3E1FBD2FC2BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
