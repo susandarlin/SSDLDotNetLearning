@@ -22,6 +22,10 @@ switch (option)
         inventoryService.ViewProducts();
         break;
     case 2:
+        Console.WriteLine("Create Products");
+        inventoryService.CreateProduct();
+        break;
+    case 3:
         Console.WriteLine("Exiting...");
         goto Exit;
 }
